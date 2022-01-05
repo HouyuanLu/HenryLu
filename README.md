@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HouyuanLu
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++/Python
-- 📫 How to reach me houyuanlu625@outlook.com
+
 
 <!---
 HouyuanLu/HouyuanLu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
