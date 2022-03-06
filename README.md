@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HouyuanLu
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++/Python
+- 🌱 I’m currently learning C++ and Python
 
 
 <!---
